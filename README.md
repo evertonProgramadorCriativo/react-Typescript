@@ -1,3 +1,19 @@
+https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675
+
+https://prettier.io/docs/en/configuration.html
+
+https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-filename-extension.md
+
+
+
+
+tudo que voce baixa no react ou javascript , ser voce estiver usando  typescript   vai precissa baixa tambem
+comandos  {
+    yarn add react-router-dom
+}
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
